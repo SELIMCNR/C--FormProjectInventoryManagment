@@ -1,0 +1,11 @@
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\bin\Debug\InventoryMgmtTutorial.exe.config
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\bin\Debug\InventoryMgmtTutorial.exe
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\bin\Debug\InventoryMgmtTutorial.pdb
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.Properties.Resources.resources
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.exe
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.pdb
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.ManageUsers.resources
+C:\Users\btk02\source\repos\InventoryMgmtTutorial\InventoryMgmtTutorial\obj\Debug\InventoryMgmtTutorial.FormLogin.resources
